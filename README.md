@@ -1,0 +1,2 @@
+# MileageClaimTracker
+This is a mileage reminder application under development.Users can plan and remind their own mileage by adding their own mileage to prevent themselves from making mistakes. The current project is still under development, if you encounter problems in the test, please contact me
